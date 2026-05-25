@@ -1,0 +1,30 @@
+{
+  "model_type": "LinearSVC",
+  "accuracy": 0.8829787234042553,
+  "features_count": 5000,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "classes": [
+    "Arabic",
+    "Danish",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Italian",
+    "Kannada",
+    "Malayalam",
+    "Portugeese",
+    "Russian",
+    "Spanish",
+    "Sweedish",
+    "Tamil",
+    "Turkish"
+  ],
+  "timestamp": "20260525_225943",
+  "dataset_size": 10447
+}
