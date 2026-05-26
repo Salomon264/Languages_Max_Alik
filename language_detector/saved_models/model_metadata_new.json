@@ -1,0 +1,32 @@
+{
+  "model_type": "LinearSVC",
+  "accuracy": 0.9104330708661418,
+  "max_features": 5000,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "total_languages": 17,
+  "languages": [
+    "Arabic",
+    "Danish",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Greek",
+    "Hindi",
+    "Italian",
+    "Kannada",
+    "Malayalam",
+    "Portugeese",
+    "Russian",
+    "Spanish",
+    "Sweedish",
+    "Tamil",
+    "Turkish"
+  ],
+  "samples_count": 10156,
+  "samples_after_cleaning": 10156,
+  "timestamp": "2026-05-26T12:49:16.936244"
+}
